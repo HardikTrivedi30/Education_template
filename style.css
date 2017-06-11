@@ -1,0 +1,174 @@
+/***Body Start****/
+
+
+
+/***Body End****/
+
+
+/****Navbar Start****/
+
+
+.navbar-default
+{
+    background: rgba(0,0,0,0.2);
+    border: 0;
+    text-transform: uppercase;
+}
+
+.navbar-default .navbar-brand 
+{
+    color: cornflowerblue;
+}
+
+.navbar-default .navbar-nav > li > a
+{
+    color: #000 ;
+}
+.navbar-default .navbar-nav > li > a:hover
+{
+    color: blue !important;
+
+}
+
+
+
+/***Navbar End****/
+
+/***Slider start***/
+#carousel-example-generic
+{
+    margin-top: 50px;
+}
+
+/***Slider End***/
+
+
+
+/****About start***/
+
+.about-left img
+{
+    margin-top: 1px;
+}
+
+.about-right p
+{
+    margin-top: 1px;
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+
+/****About End***/
+
+
+
+
+
+/***CoursesStart***/
+#courses
+{
+    background: rgba(0,0,0,0.1);
+    
+}
+
+#courses h2
+{
+    font-weight: bold;
+    padding-top: 20px;
+
+}
+#courses p
+{
+    padding-bottom: 20px;
+}
+/***Courses End****/
+
+
+
+/*****Faculty Start****/
+
+#faculty h2
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.slideanim
+{
+    visibility:visible;
+}
+
+slide
+{
+    animation-duration: 1s;
+    animation-name: slide;
+    visibility: visible;
+}
+
+/****Faculty End****/
+
+
+
+/****Contact Start****/
+#contact
+{
+    background-image: url(images/dark_embroidery.png);
+    color: #fff;
+    border-bottom: #333 7px solid;
+    border-top: #333 7px solid;
+    margin-top: 1px;
+    padding-left: 30px;
+}
+
+#contact .btn-default:hover
+{
+    background-color: green !important;
+    color: black !important;
+}
+
+/****Contact End***/
+
+
+
+/****Footer Start***/
+
+footer
+{
+    
+    background-color: #222;
+    padding: 50px 0px;
+}
+
+footer h4
+{
+    color: rgba(255,255,255,0.8);
+    font-size: 1.3em;
+}
+
+footer a
+{
+    display: block;
+     color: rgba(255,255,255,0.6);
+    font-size: 0.8em;
+}
+
+footer a span
+{
+    font-weight: bold;
+    color: rgba(255,255,255,0.3);
+}
+
+footer hr
+{
+    border-color: rgba(255,255,255,0.1);
+    margin: 10px 0;
+}
+
+footer a:hover
+{
+    color: rgba(255,255,255,0.8);
+}
+
+
+/***Footer End****/

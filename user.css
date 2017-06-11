@@ -1,0 +1,26 @@
+/***navbr start****/
+.navbar-default .navbar-nav > li > a 
+{
+    color: #000 !important;
+}
+.navbar-nav .btn-default
+{
+    margin-top: 8px;
+    background: none !important;
+    border: none !important;
+    color: #000;
+    
+}
+
+.dropdown-menu
+{
+    background: rgba(0,0,0,0.3);
+}
+
+.dropdown-menu >li> a:hover
+{
+    color: blue;
+}
+
+
+/***navbar ends****/
